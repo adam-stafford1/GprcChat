@@ -1,0 +1,24 @@
+{
+  "name": "GprcChat",
+  "version": "1.0.0",
+  "description": "GPRC sample chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adam-stafford1/GprcChat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adam-stafford1/GprcChat/issues"
+  },
+  "homepage": "https://github.com/adam-stafford1/GprcChat#readme",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.4",
+    "grpc": "^1.24.2"
+  }
+}
